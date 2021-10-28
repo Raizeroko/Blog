@@ -17,7 +17,7 @@ int main()
 
 
 
-//2.1
+//1.2
 //
 function(int* pa)
 {
@@ -50,7 +50,7 @@ int main()
 
 
 
-//2.2
+//2
 //
 function(int** ppa)
 {
